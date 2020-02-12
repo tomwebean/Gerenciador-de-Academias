@@ -1,0 +1,68 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1549476464-37392f717541?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
+      "name": "Anthony Nezi",
+      "email": "teste@teste.com",
+      "birth": 634780800000,
+      "gender": "M",
+      "blood": "O+",
+      "weight": "75",
+      "height": "170"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1517964603305-11c0f6f66012?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
+      "name": "Oliver Morgan",
+      "email": "teste@teste.com",
+      "birth": 649296000000,
+      "gender": "M",
+      "blood": "B+",
+      "weight": "85",
+      "height": "180"
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1517964603305-11c0f6f66012?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
+      "name": "Rebeca",
+      "email": "teste@teste.com",
+      "birth": 976838400000,
+      "gender": "F",
+      "blood": "B+",
+      "weight": "60",
+      "height": "168"
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://images.unsplash.com/photo-1517964603305-11c0f6f66012?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
+      "name": "Ester",
+      "email": "teste@teste.com",
+      "birth": 1001635200000,
+      "gender": "F",
+      "blood": "AB+",
+      "weight": "60",
+      "height": "169"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1517964603305-11c0f6f66012?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
+      "name": "Wellington Bernardes",
+      "birth": 468115200000,
+      "gender": "M",
+      "services": "Musculação, Natação",
+      "created_at": 1581202609788
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1549476464-37392f717541?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
+      "name": "Bruno Melone",
+      "birth": 655516800000,
+      "gender": "M",
+      "services": "Musculação",
+      "created_at": 1581529247192
+    }
+  ]
+}
